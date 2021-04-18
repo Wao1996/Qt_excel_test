@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Qt_excel_test">
+    <file>src/游标.png</file>
+    <file>src/move.png</file>
+    <file>src/select.png</file>
+    <file>src/Zoom In_32x32.png</file>
+  </qresource>
+</RCC>
